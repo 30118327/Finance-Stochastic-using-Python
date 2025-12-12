@@ -1,0 +1,2 @@
+The financial industry has recently adopted Python at a tremendous rate, with some of the largest investment banks and hedge funds using it to build core trading and risk management systems. This work is based on the quantitative skills through Python libraries and tools for building financial applications and interactive financial analytics.
+Attached python file is created to develop a full-fledged framework for Monte Carlo simulation-based derivatives and risk analytics, based on a large, realistic case study.
